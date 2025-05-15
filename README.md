@@ -1,13 +1,55 @@
-- 👋 Hi, I’m @sashakosti - young and ready-to-learn engineer
-- 👀 I’m interested in DevSecOps - i want to help developers ship their product with fast, efficent, secure and reliable solutions
-- 🌱 I’m currently learning how to make a cool site for my artist works!
-- 💞️ I’m looking to collaborate on anything, that will help me master my skills and have fun while doing it
-- 📫 How to reach me:
-  sashakosti.work@icloud.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: did you know FFmpeg is underrated?
+🧙‍♂️ Archmage of the Repo Realms
 
-<!---
-sashakosti/sashakosti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> “Code is just runes for machines. Master the glyphs — and you bend reality.”
+
+Welcome, traveler, to the sacred halls of my GitHub profile.  
+Within these arcane scrolls, you shall find:
+
+- 🧪 Forbidden experiments (a.k.a. side projects)
+- 🦴 Necromantic refactors of ancient codebases
+- 🔮 Attempts to summon intelligent entities (neural nets)
+- 🛠️ Runes of automation (DevOps, scripts, CI/CD)
+
+## 🧾 Arcane Metrics
+
+| Spell Component           | Value                                 |
+|--------------------------|----------------------------------------|
+| Total Repositories       | 🗃️ `42` (The Answer)                   |
+| Stars Conjured           | ✨ `137` (Fine structure constant?)     |
+| Pull Requests Cast       | ⚔️ `1089` battles fought               |
+| Issues Resolved          | 🧹 `666` demons banished               |
+| Commits Summoned         | 📜 `12,345` ancient runes inscribed    |
+| Languages Mastered       | 🧠 `Python`, `Rust`, `Bash`, `🦄`        |
+| Tests Passed             | ✅ `All` (if you don't check logs)     |
+| Bugs Transmuted          | 🐛 → 🦋 `+7 charisma`                   |
+| Coffee Potions Brewed    | ☕ `∞` (cursed artifact)                |
+
+> ⚠️ Disclaimer: All metrics were generated using the `arcane-metrics.sh` script during a thunderstorm.
+
+## 📚 Grimoires of Knowledge
+
+- 🧠 AI & Spellbinding Prompt Engineering
+- 🏰 System Sorcery (Linux, containers, shells)
+- 🧬 Linguistic Runes (NLP, multilingual magic)
+- 🔧 Enchantment of Legacy Systems (a.k.a refactoring)
+
+## 🧙‍♀️ Currently Studying
+
+- ✒️ Rhymecraft & Rapchemy (neural rhyme tools)
+- 🧠 Memory-infused LLMs
+- 🔐 DevSecOps Rituals
+- 🎸 Acoustic Vibes for Mana Regen
+
+## 🔍 Seek Me
+
+If you dare summon me:
+
+- 🌌 Open a portal (aka [Issue or PR](https://github.com/yourusername))
+- 🕯️ Whisper via email: `you@arcane-domain.dev`
+- 🧭 Or follow the trails of stardust [here](https://github.com/yourusername)
+
+> *May your builds be green, your tests pass, and your merge conflicts resolve themselves.*
+
+---
+
+🪄 *Maintained under the High Order of the Open-Source Conclave*
