@@ -44,9 +44,9 @@ Within these arcane scrolls, you shall find:
 
 If you dare summon me:
 
-- 🌌 Open a portal (aka [Issue or PR](https://github.com/yourusername))
+- 🌌 Open a portal (aka [Issue or PR](https://github.com/sashakosti/))
 - 🕯️ Whisper via email: `you@arcane-domain.dev`
-- 🧭 Or follow the trails of stardust [here](https://github.com/yourusername)
+- 🧭 Or follow the trails of stardust [here](https://github.com/sashakosti/)
 
 > *May your builds be green, your tests pass, and your merge conflicts resolve themselves.*
 
