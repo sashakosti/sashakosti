@@ -12,6 +12,8 @@ Within these arcane scrolls, you shall find:
 
 ## 🧾 Arcane Metrics
 
+> ⚠️ Disclaimer: All metrics were generated using the `arcane-metrics.sh` script during a thunderstorm.
+
 | Spell Component           | Value                                 |
 |--------------------------|----------------------------------------|
 | Total Repositories       | 🗃️ `42` (The Answer)                   |
@@ -24,29 +26,28 @@ Within these arcane scrolls, you shall find:
 | Bugs Transmuted          | 🐛 → 🦋 `+7 charisma`                   |
 | Coffee Potions Brewed    | ☕ `∞` (cursed artifact)                |
 
-> ⚠️ Disclaimer: All metrics were generated using the `arcane-metrics.sh` script during a thunderstorm.
 
 ## 📚 Grimoires of Knowledge
 
 - 🧠 AI & Spellbinding Prompt Engineering
-- 🏰 System Sorcery (Linux, containers, shells)
-- 🧬 Linguistic Runes (NLP, multilingual magic)
-- 🔧 Enchantment of Legacy Systems (a.k.a refactoring)
+- 🏰 System Sorcery (Linux, containers, terminal)
+- 🧬 Linguistic Runes (NLP, multilingual magic, generators-of-stuff)
+- 🔧 Enchantment of Legacy Systems (a.k.a refactoring of Old-Books)
 
 ## 🧙‍♀️ Currently Studying
 
-- ✒️ Rhymecraft & Rapchemy (neural rhyme tools)
+- ✒️ Rhymecraft & Rapchemy (neural rhyme tools because funny)
 - 🧠 Memory-infused LLMs
-- 🔐 DevSecOps Rituals
-- 🎸 Acoustic Vibes for Mana Regen
+- 🔐 DevSecOps Rituals 
+- 🎸 Sometimes sum acoustic Vibes for Mana Regen
 
 ## 🔍 Seek Me
 
 If you dare summon me:
 
 - 🌌 Open a portal (aka [Issue or PR](https://github.com/sashakosti/))
-- 🕯️ Whisper via email: `you@arcane-domain.dev`
-- 🧭 Or follow the trails of stardust [here](https://github.com/sashakosti/)
+- 🕯️ Whisper via email: `sashakosti.work@icloud.com`
+- ✈ Or follow the trails of a paperplane [here](t.me/@wrldocean)
 
 > *May your builds be green, your tests pass, and your merge conflicts resolve themselves.*
 
