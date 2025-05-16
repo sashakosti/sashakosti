@@ -21,7 +21,7 @@ Within these arcane scrolls, you shall find:
 | Pull Requests Cast       | ⚔️ `1089` battles fought               |
 | Issues Resolved          | 🧹 `666` demons banished               |
 | Commits Summoned         | 📜 `12,345` ancient runes inscribed    |
-| Languages Mastered       | 🧠 `Python`, `Rust`, `Bash`, `🦄`        |
+| Languages Mastered       | 🧠 `Python`, `GO`, `Bash`, `🦄`        |
 | Tests Passed             | ✅ `All` (if you don't check logs)     |
 | Bugs Transmuted          | 🐛 → 🦋 `+7 charisma`                   |
 | Coffee Potions Brewed    | ☕ `∞` (cursed artifact)                |
