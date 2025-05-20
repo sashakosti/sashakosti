@@ -7,7 +7,7 @@ Within these arcane scrolls, you shall find:
 
 - 🧪 Forbidden experiments (a.k.a. side projects)
 - 🦴 Necromantic refactors of ancient codebases
-- 🔮 Attempts to summon intelligent entities (neural nets)
+- 🔮 Attempts to summon intelligent entities (neural nets experiments)
 - 🛠️ Runes of automation (DevOps, scripts, CI/CD)
 
 ## 🧾 Arcane Metrics
@@ -19,7 +19,7 @@ Within these arcane scrolls, you shall find:
 | Total Repositories       | 🗃️ `42` (The Answer)                   |
 | Stars Conjured           | ✨ `137` (Fine structure constant?)     |
 | Pull Requests Cast       | ⚔️ `1089` battles fought               |
-| Issues Resolved          | 🧹 `666` demons banished               |
+| Issues Resolved          | 🧹 `666` demons banished && daemons installed               |
 | Commits Summoned         | 📜 `12,345` ancient runes inscribed    |
 | Languages Mastered       | 🧠 `Python`, `GO`, `Bash`, `🦄`        |
 | Tests Passed             | ✅ `All` (if you don't check logs)     |
@@ -29,7 +29,7 @@ Within these arcane scrolls, you shall find:
 
 ## 📚 Grimoires of Knowledge
 
-- 🧠 AI & Spellbinding Prompt Engineering
+- 🧠 AI & Spellbinding Prompt Engineering 
 - 🏰 System Sorcery (Linux, containers, terminal)
 - 🧬 Linguistic Runes (NLP, multilingual magic, generators-of-stuff)
 - 🔧 Enchantment of Legacy Systems (a.k.a refactoring of Old-Books)
@@ -38,7 +38,7 @@ Within these arcane scrolls, you shall find:
 
 - ✒️ Rhymecraft & Rapchemy (neural rhyme tools because funny)
 - 🧠 Memory-infused LLMs
-- 🔐 DevSecOps Rituals 
+- 🔐 DevSecOps Rituals && Practicies
 - 🎸 Sometimes sum acoustic Vibes for Mana Regen
 
 ## 🔍 Seek Me
@@ -47,7 +47,6 @@ If you dare summon me:
 
 - 🌌 Open a portal (aka [Issue or PR](https://github.com/sashakosti/))
 - 🕯️ Whisper via email: `sashakosti.work@icloud.com`
-- ✈ Or follow the trails of a paperplane [here](t.me/@wrldocean)
 
 > *May your builds be green, your tests pass, and your merge conflicts resolve themselves.*
 
