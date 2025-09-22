@@ -1,31 +1,12 @@
-🧙‍♂️ Archmage of the Repo Realms
-
-> “Code is just runes for machines. Master the glyphs — and you bend reality.”
+🧙‍♂️ < --- me
 
 Welcome, traveler, to the sacred halls of my GitHub profile.  
 Within these arcane scrolls, you shall find:
 
 - 🧪 Forbidden experiments (a.k.a. side projects)
-- 🦴 Necromantic refactors of ancient codebases
-- 🔮 Attempts to summon intelligent entities (neural nets experiments)
-- 🛠️ Runes of automation (DevOps, scripts, CI/CD)
-
-## 🧾 Arcane Metrics
-
-> ⚠️ Disclaimer: All metrics were generated using the `arcane-metrics.sh` script during a thunderstorm.
-
-| Spell Component           | Value                                 |
-|--------------------------|----------------------------------------|
-| Total Repositories       | 🗃️ `42` (The Answer)                   |
-| Stars Conjured           | ✨ `137` (Fine structure constant?)     |
-| Pull Requests Cast       | ⚔️ `1089` battles fought               |
-| Issues Resolved          | 🧹 `666` demons banished && daemons installed               |
-| Commits Summoned         | 📜 `12,345` ancient runes inscribed    |
-| Languages Mastered       | 🧠 `Python`, `GO`, `Bash`, `🦄`        |
-| Tests Passed             | ✅ `All` (if you don't check logs)     |
-| Bugs Transmuted          | 🐛 → 🦋 `+7 charisma`                   |
-| Coffee Potions Brewed    | ☕ `∞` (cursed artifact)                |
-
+- 🦴 Necromantic refactors of ancient stuff that i didn't fully complete
+- 🔮 Attempts to summon intelligent entities (neural nets experiments) ((currently none))
+- 🛠️ Runes of automation (DevOps, scripts, CI/CD stuff, bots, etc.)
 
 ## 📚 Grimoires of Knowledge
 
